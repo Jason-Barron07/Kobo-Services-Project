@@ -6,5 +6,6 @@ JOIN TransactionLedger
 ON Users.UserID = TransactionLedger.WalletID
 -- Only include completed transactions
 WHERE TransactionLedger.ProcessingStatus = 'Completed'
+AND Users.AccountTier = 'Standard'
 -- Group results by user to sum their transactions
 GROUP BY Users.UserID;
