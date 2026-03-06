@@ -1,0 +1,18 @@
+{
+    "request":{
+        
+        "walletId": 18,
+        "productId": 1,
+        "reference": "TASK2-DISABLED-001"
+
+         },
+
+    "response":{
+
+        "status": "SUCCESS",
+        "pin": "220025199",
+        "traceId": "242010d4-73c9-42d9-9371-d41cdc721b6d"
+
+         }
+}
+
