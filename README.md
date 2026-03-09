@@ -91,7 +91,7 @@ Through this project the following skills were demonstrated:
 
 ## Author
 
-Jason Barron
+Jason Barron and Yanda Kiviet
 
 ---
 
