@@ -1,0 +1,23 @@
+{
+    "request":{
+ 
+        "walletId": 1,
+        "productId": 1,
+        "reference": "TASK2-DISABLED-001"
+ 
+},
+    "reponse": {
+ 
+        "WalletID": 10,
+        "UserID": 10,
+        "Balance": -5,
+        "CurrencyCode": "ZAR",
+        "LastUpdated": "2026-03-03T16:22:00.433Z",
+        "FullName": "User_10",
+        "MSISDN": "27711000010",
+        "ServiceStatus": "Active"
+ 
+    },
+        "traceId": "a4fd993a-0659-49c9-adea-89ff966539c8"
+}
+ 
