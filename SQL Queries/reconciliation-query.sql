@@ -8,4 +8,4 @@ LEFT JOIN DigitalVouchers
 ON TransactionLedger.EntryID = DigitalVouchers.EntryID
 -- If a voucher was not created, the DigitalVouchers fields will be NULL
 -- This condition filters those unmatched records
-WHERE DigitalVouchers.EntryID IS NULL;
+WHERE DigitalVouchers.EntryID IS NULL;  
